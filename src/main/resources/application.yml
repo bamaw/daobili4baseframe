@@ -1,0 +1,14 @@
+spring:
+  profiles:
+    active: dev
+
+# 配置Swagger
+swagger:
+  title: SpringBoot骨架在线接口文档
+  description: 刀笔吏之子-springboot骨架项目
+  groupName: 基础项目
+  version: Beikezhan.M1
+  basePackage: com.daobili.modules.controller
+  author: 巴莫
+  authorUrl: xxxx.com
+  authorEmail: tbamaw@163.com
