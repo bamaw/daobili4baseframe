@@ -12,3 +12,7 @@ swagger:
   author: 巴莫
   authorUrl: xxxx.com
   authorEmail: tbamaw@163.com
+
+# 配置logback日志管理
+logging:
+  config: classpath:config/logback/logback-spring.xml
